@@ -9,7 +9,7 @@ The purpose of this project utilizing python and SQL. To create a refactorable a
  Movie Data sourced from IMDB Wikipedia and Kaggle, and refractable and Intuitive ETL pipeline. 
 
 
-## steps to EXTRACT - TRANSFORM - LOAD
+### steps to EXTRACT - TRANSFORM - LOAD
 
  primary steps screenshot.
 
